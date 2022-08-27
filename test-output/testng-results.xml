@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23345" started-at="2022-08-21T07:04:28Z" finished-at="2022-08-21T07:04:51Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23345" started-at="2022-08-21T07:04:28Z" finished-at="2022-08-21T07:04:51Z">
+      <class name="com.datadriven.test.Registration">
+        <test-method status="PASS" signature="createReport()[pri:0, instance:com.datadriven.test.Registration@467aecef]" name="createReport" is-config="true" duration-ms="432" started-at="2022-08-21T07:04:28Z" finished-at="2022-08-21T07:04:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createReport -->
+        <test-method status="PASS" signature="launchbrowser()[pri:0, instance:com.datadriven.test.Registration@467aecef]" name="launchbrowser" is-config="true" duration-ms="13715" started-at="2022-08-21T07:04:28Z" finished-at="2022-08-21T07:04:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchbrowser -->
+        <test-method status="PASS" signature="validateTextField()[pri:0, instance:com.datadriven.test.Registration@467aecef]" name="validateTextField" duration-ms="6643" started-at="2022-08-21T07:04:42Z" finished-at="2022-08-21T07:04:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateTextField -->
+        <test-method status="PASS" signature="endreport()[pri:0, instance:com.datadriven.test.Registration@467aecef]" name="endreport" is-config="true" duration-ms="2470" started-at="2022-08-21T07:04:49Z" finished-at="2022-08-21T07:04:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endreport -->
+      </class> <!-- com.datadriven.test.Registration -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
